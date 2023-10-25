@@ -3,5 +3,5 @@ Aprofundando nos conhecimentos da linguagem HTML
 
 ## Autor: Stephen Dias Barreto
 
-#Deploy
+# Deploy
 https://03-html.netlify.app/
